@@ -28,4 +28,8 @@ public class App
         
          System.out.println("Master code");
     }
+	
+	private void print(){
+		system.out.println("inside print method..");
+	}
 }
