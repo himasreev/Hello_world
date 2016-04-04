@@ -28,4 +28,8 @@ public class App
         
          System.out.println("Branch 1 code updated");
     }
+	
+	private void branch(){
+		system.out.println("inside branch 1 code");
+	}
 }
