@@ -26,6 +26,6 @@ public class App
          */
         System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
         
-         System.out.println("Master code  updated");
+         System.out.println("Branch 1 code updated");
     }
 }
